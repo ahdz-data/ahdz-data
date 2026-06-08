@@ -19,8 +19,13 @@ I am actively transitioning into Data Science, with a focus on building machine 
 
 ---
 
-## 📊 Featured Projects
-- Fraud Detection in Financial Transactions (classification, imbalanced data)
-- Store Visitors Forecasting (time series forecasting)
+📊 Featured Projects
+
+- **Fraud Detection in Financial Transactions**  
+  Classification problem with imbalanced data handling and model comparison.
+
+- **Store Visitors Forecasting**  
+  Time series forecasting using lag features and seasonality patterns.
+
 
 ---
