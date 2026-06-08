@@ -16,7 +16,7 @@ I am actively transitioning into Data Science, with a focus on building machine 
 - Feature Engineering
 
 
-📊 Featured Projects
+## 📊 Featured Projects
 
 - **Fraud Detection in Financial Transactions**  
   Classification problem with imbalanced data handling and model comparison.
